@@ -343,7 +343,17 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13' defer='defer'></script>
 <script type='text/javascript' src='https://ok-shopping.online/wp-content/themes/landingpress-wp/assets/js/script.min.js?ver=3.0.0' defer='defer'></script>
 
-<!--[if LandingPress]></body></html><![endif]-->
-<!-- </body></html> -->
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4203566,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4203566&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
 </body>
 </html>
