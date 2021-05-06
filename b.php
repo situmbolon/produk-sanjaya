@@ -587,7 +587,15 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 </script>
 <script type='text/javascript' src='https://ok-shopping.online/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=2.9.13' defer='defer'></script>
 <script type='text/javascript' src='https://ok-shopping.online/wp-content/themes/landingpress-wp/assets/js/script.min.js?ver=3.0.0' defer='defer'></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DBKY3Z29N5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-DBKY3Z29N5');
+</script>
 <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,4367533,4,0,0,0,00010000']);
