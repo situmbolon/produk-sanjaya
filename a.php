@@ -344,6 +344,7 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 <script type='text/javascript' src='https://ok-shopping.online/wp-content/themes/landingpress-wp/assets/js/script.min.js?ver=3.0.0' defer='defer'></script>
 
 <!-- Histats.com  START  (aync)-->
+<!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
 _Hasync.push(['Histats.start', '1,4203566,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
